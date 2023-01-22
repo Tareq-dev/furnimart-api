@@ -2,49 +2,60 @@
     {
      "description":"",
       "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 411,
+      "price": 41001,
       "name": "Richard"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 26,
+      "picture": "https://i.ibb.co/G31gB3F/1.jpg",
+      "price": 20006,
       "name": "Nanette"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 315,
+      "picture": "https://i.ibb.co/18hmhXX/2.png",
+      "price": 31005,
       "name": "Imelda"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 35,
+      "picture": "https://i.ibb.co/7JKtbHt/3.jpg",
+      "price": 35000,
       "name": "Anthony"
     },
     {
       "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 238,
+      "picture": "https://i.ibb.co/nw7rjfX/4.jpg",
+      "price": 23800,
       "name": "Evans"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 381,
+      "picture": "https://i.ibb.co/bdYSsZJ/5.jpg",
+      "price": 38100,
       "name": "Gross"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 56,
+      "picture": "https://i.ibb.co/5RCgJR4/6.jpg",
+      "price": 56000,
       "name": "Latasha"
     },
     {
        "description":"",
-      "picture": "https://i.ibb.co/zs0Mx4B/chair.png",
-      "price": 439,
-      "name": "Ollie"
+      "picture": "https://i.ibb.co/vY8Ygvv/7.jpg",
+      "price": 40789,
+      "name": "Baita"
+    },{
+       "description":"",
+      "picture": "https://i.ibb.co/zxbV8fL/8.jpg.jpg",
+      "price": 50639,
+      "name": "Narry"
+    },
+    {
+       "description":"",
+      "picture": "https://i.ibb.co/kgLKJLQ/9.jpg",
+      "price": 16339,
+      "name": "Picasu"
     }
   ]
